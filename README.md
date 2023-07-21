@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to Ezy-Parking 👋🚗</h1>
+  <h1>Welcome to online-parking-system 👋🚗</h1>
   <h3>Website for Ezy-Parking Project Application : <a href="https://prathimacode-hub.github.io/Ezy-Parking">Click Here!</a></h3>
 </div>
 
