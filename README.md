@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Ezy-Parking.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Ezy-parking.png"></a>
 </p>
 
 <p align="center">
@@ -129,65 +129,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 **:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code.**</br>
 
 
-## ✨ Hall Of Fame   
-
-Special thanks goes to all of the mentees who made a choice to make an impact. Contributions of any kind are welcome!🚀 
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<a href="https://github.com/prathimacode-hub/Ezy-Parking/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/Ezy-Parking" />
-</a>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## 📜 Code Of Conduct
-
-You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/CODE_OF_CONDUCT.md).
 
 
-## 📝 License 
-
-This project follows the [General Public License 3.0](https://github.com/prathimacode-hub/Ezy-Parking/blob/main/LICENSE).
-
-
-## 😎 Project Admin
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/Prathima-Kadari-Picture.png" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
-  </tr>
-</table>
-
-![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
-
-
-## ⭐ Give this Project a Star
-
-[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
-
-If you liked working on this project, do ⭐ and share this repository.
-
-🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
-
-<!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td> 
-
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
-
-
-## 📬 Contact
-
-If you want to contact me, you can reach me through below handles.
-
-<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
-
-© 2022 Prathima Kadari
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
