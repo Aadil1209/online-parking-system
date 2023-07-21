@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Welcome to online-parking-system 👋🚗</h1>
-  <h3>Website for Ezy-Parking Project Application : <a href="https://prathimacode-hub.github.io/online parking system">Click Here!</a></h3>
+  <h1>Welcome to Ezy-Parking 👋🚗</h1>
+  <h3>Website for Ezy-Parking Project Application : <a href="https://prathimacode-hub.github.io/Ezy-Parking">Click Here!</a></h3>
 </div>
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Ezy-parking.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Ezy-Parking.png"></a>
 </p>
 
 <p align="center">
@@ -122,11 +122,6 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
  </td>
 </tr>
 </table>
-
-
-## 🏆 Achievements of this Project Repo 🎉
-
-**:one: Recognized as the "🥇 BEST ORGANIZATION" for "FIESTA OF PROJECTS" undertaking the project ['Ezy-Parking'](https://github.com/prathimacode-hub/Ezy-Parking) at Delta Winter Of Code.**</br>
 
 
 
